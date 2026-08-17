@@ -1,39 +1,42 @@
 # EXP-1-DIGITAL-IMAGE-PROCESSING
 Image-Handling-and-Pixel-Transformations-Using-OpenCV
-AIM:
+
+# AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
 Read and Display an Image.
 Adjust the brightness of an image.
 Modify the image contrast.
 Generate a third image using bitwise operations.
-Software Required:
+
+# Software Required:
 Anaconda - Python 3.7
 Jupyter Notebook (for interactive development and execution)
-Algorithm:
-Step 1:
+
+# Algorithm:
+# Step 1:
 Load an image from your local directory and display it.
 
-Step 2:
+# Step 2:
 Create a matrix of ones (with data type float64) to adjust brightness.
 
-Step 3:
+# Step 3:
 Create brighter and darker images by adding and subtracting the matrix from the original image.
 Display the original, brighter, and darker images.
 
-Step 4:
+# Step 4:
 Modify the image contrast by creating two higher contrast images using scaling factors of 1.1 and 1.2 (without overflow fix).
 Display the original, lower contrast, and higher contrast images.
 
-Step 5:
+# Step 5:
 Split the image (boy.jpg) into B, G, R components and display the channels
 
-Program Developed By:
-Name: [Your Name Here]
+# Program Developed By:
+# Name: [Your Name Here]
 
-Register Number: [Your Register Number Here]
+# Register Number: [Your Register Number Here]
 
-Ex. No. 01
+# Ex. No. 01
 1. Read the image ('Eagle_in_Flight.jpg') using OpenCV imread() as a grayscale image.
 # YOUR CODE HERE
 2. Print the image width, height & Channel.
@@ -92,7 +95,7 @@ matrix2 =
 # YOUR CODE HERE
 23. Merged the H, S, V, displays along with original image.
 # YOUR CODE HERE
-Output:
+# Output:
 i) Read and Display an Image.
 ii) Adjust Image Brightness.
 iii) Modify Image Contrast.
