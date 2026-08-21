@@ -182,8 +182,25 @@ plt.axis("off")
 ```
 
 ### OUTPUT
+<img width="381" height="541" alt="image" src="https://github.com/user-attachments/assets/20771e60-9052-4c72-ade2-c92dd4050d7a" />
+<img width="400" height="538" alt="image" src="https://github.com/user-attachments/assets/f19a4e18-9104-4d05-ae30-873d597d48b2" />
+<img width="395" height="536" alt="image" src="https://github.com/user-attachments/assets/ceca4edc-8fdd-408c-95e9-12eb58e1bdad" />
+<img width="400" height="542" alt="image" src="https://github.com/user-attachments/assets/d68fedef-2a2a-4217-bf63-6666d38ac61d" />
+<img width="371" height="533" alt="image" src="https://github.com/user-attachments/assets/e10751ba-5778-4dda-983f-bc818b23bcfc" />
+<img width="392" height="550" alt="image" src="https://github.com/user-attachments/assets/33bd3ddb-bef5-4a63-8d4d-ef9366f77054" />
+<img width="419" height="548" alt="image" src="https://github.com/user-attachments/assets/890c8d50-80bc-4413-9a12-19fdc27e3cc3" />
+<img width="363" height="532" alt="image" src="https://github.com/user-attachments/assets/2d568876-5a40-4388-942d-177c167b07a7" />
+<img width="370" height="526" alt="image" src="https://github.com/user-attachments/assets/90bdaf5b-6473-46c0-a2dd-7f4228b2dd87" />
+<img width="395" height="558" alt="image" src="https://github.com/user-attachments/assets/61558b73-ce45-4e44-a634-2f7bb334c7a1" />
+<img width="403" height="537" alt="image" src="https://github.com/user-attachments/assets/15792409-e194-42a2-801a-60b44ddb18ac" />
+<img width="680" height="544" alt="image" src="https://github.com/user-attachments/assets/4db515b7-618a-4315-9005-3fdaa05f93b5" />
+<img width="507" height="558" alt="image" src="https://github.com/user-attachments/assets/ba51e774-c3e4-475c-a7e7-567ea4531862" />
+<img width="401" height="545" alt="image" src="https://github.com/user-attachments/assets/2d153184-d8b1-4fef-ac5a-2c48b5f93381" />
+<img width="616" height="554" alt="image" src="https://github.com/user-attachments/assets/a2364bb8-ae61-46f5-8c58-b4e024cb66bd" />
+<img width="521" height="570" alt="image" src="https://github.com/user-attachments/assets/0e469e95-5f07-462f-bcff-38892b2f4270" />
+<img width="399" height="569" alt="image" src="https://github.com/user-attachments/assets/cc11e94e-a64c-4e72-8951-204cd1f222d4" />
+<img width="389" height="548" alt="image" src="https://github.com/user-attachments/assets/c1743cab-a90c-4c90-bc0d-1a9a90a343d5" />
 
-<img width="736" height="1008" alt="dog" src="https://github.com/user-attachments/assets/102fe19b-e591-479e-9050-270dc48d5180" />
 
 
 ### RESULT
